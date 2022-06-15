@@ -1,2 +1,2 @@
 # LILAC-ONLINE-SHOP
-Online shop
+LILAC is an online clothing and lifestyle store that strives to make the beauty of fashion accessible to everyone. We use on-demand manufacturing technology to connect suppliers to our flexible supply chain, which reduces warehouse losses and allows us to deliver a wide range of affordable products to customers around the world. From our offices around the world, we work with clients in more than 70 countries.
